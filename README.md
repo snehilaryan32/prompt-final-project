@@ -1,4 +1,6 @@
-#Prompt Engineering Final Project - Nike Shopping Bot
+# Prompt Engineering Final Project - 
+
+Nike Shopping Bot
 https://github.com/snehilaryan32/prompt-final-project/blob/main/README.md
 Welcome to the Nike Product Search Bot! This application helps you search for Nike products using both text queries and image uploads. Built with Streamlit, it leverages the CLIP model for embeddings and Pinecone for vector database management and a fine tuned GPT3.5 for the chat interface
 
