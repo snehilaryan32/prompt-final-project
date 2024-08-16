@@ -107,7 +107,7 @@ async def chat_with_gpt(user_prompt, chat_history):
     async def get_chat_response(messages):
         try:
             response = await client.chat.completions.create(
-                model="gpt-3.5-turbo",
+                model="ft:gpt-4o-mini-2024-07-18:personal:prompt:9wcxTPfl",
                 messages=messages
             )
             return response.choices[0].message.content
