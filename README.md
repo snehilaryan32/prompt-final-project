@@ -98,7 +98,7 @@ Nike Website : https://www.nike.com/
 
 
 ## Project Team
-[![Snehil Aryan](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1rxwEOAuZc-nYXXGWnDTdTcSZ_Ha2OzUyzep-SCzlBuo#0)
+Snehil Aryan - https://www.linkedin.com/in/snehil-aryan-158777164/
 
 Sanjay Bhaskar Kashyap
 
