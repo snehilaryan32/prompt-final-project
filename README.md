@@ -4,7 +4,7 @@ Welcome to the Nike Product Search Bot! This application helps you search for Ni
 
 ## Video Demo
 
-[Watch the Video Demo](https://youtu.be/o1LfuwAmp6Y)
+[![Watch the video](assets/images/video-thumbnail.png)](https://youtu.be/o1LfuwAmp6Y)
 
 
 ## Documentation
