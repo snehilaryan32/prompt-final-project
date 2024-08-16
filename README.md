@@ -4,7 +4,7 @@ Welcome to the Nike Product Search Bot! This application helps you search for Ni
 
 ## Video Demo
 
-[![Video Demo](https://img.shields.io/badge/Video%20Demo-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)](https://youtu.be/FX2NfVkHWtU)
+
 
 ## Documentation
 
