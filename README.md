@@ -2,10 +2,6 @@
 
 Welcome to the Nike Product Search Bot! This application helps you search for Nike products using both text queries and image uploads. Built with Streamlit, it leverages the CLIP model for embeddings and Pinecone for vector database management.
 
-## Live Application
-
-[![Live Application](https://img.shields.io/badge/Live%20Application-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)](http://34.148.79.108:8501/)
-
 ## Video Demo
 
 [![Video Demo](https://img.shields.io/badge/Video%20Demo-<COLOR>?style=for-the-badge&logo=<LOGO>&logoColor=white)](https://youtu.be/FX2NfVkHWtU)
