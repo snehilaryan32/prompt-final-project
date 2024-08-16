@@ -1,6 +1,6 @@
 # Assignment - 3 - Nike Shopping Bot
 
-Welcome to the Nike Product Search Bot! This application helps you search for Nike products using both text queries and image uploads. Built with Streamlit, it leverages the CLIP model for embeddings and Pinecone for vector database management.
+Welcome to the Nike Product Search Bot! This application helps you search for Nike products using both text queries and image uploads. Built with Streamlit, it leverages the CLIP model for embeddings and Pinecone for vector database management and a fine tuned GPT3.5 for the chat interface
 
 ## Video Demo
 
