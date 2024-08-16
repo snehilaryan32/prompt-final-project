@@ -104,7 +104,9 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## Project Team
 Snehil Aryan
+
 Sanjay Bhaskar Kashyap
+
 Lissa Rodrigues
 
 
