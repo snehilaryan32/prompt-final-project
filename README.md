@@ -98,11 +98,24 @@ Nike Website : https://www.nike.com/
 
 
 ## Project Team
-Snehil Aryan - https://www.linkedin.com/in/snehil-aryan-158777164/
+**Snehil Aryan** - 
 
-Sanjay Bhaskar Kashyap - https://www.linkedin.com/in/skashyap11/
+https://www.linkedin.com/in/snehil-aryan-158777164/
 
-Lissa Rodrigues - https://www.linkedin.com/in/lissar/
+aryan.s@northeastern.edu
+
+**Sanjay Bhaskar Kashyap** - 
+
+https://www.linkedin.com/in/skashyap11/
+
+kashyap.sanj@northeastern.edu
+
+Lissa Rodrigues - 
+
+https://www.linkedin.com/in/lissar/
+
+rodrigues.li@northeastern.edu
+
 
 
 ## References
