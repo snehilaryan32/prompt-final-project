@@ -10,20 +10,6 @@ Welcome to the Nike Product Search Bot! This application helps you search for Ni
 ### Architecture
 <img width="1276" alt="Product Search" src="https://github.com/snehilaryan32/prompt-final-project/blob/main/image.png">
 
-## Features
-
-### Product Search
-<img width="1276" alt="Product Search" src="https://github.com/deveshcode/shopping-multimodal-rag/assets/37287532/6de1a49e-242e-4836-bcf8-dca0e9346eba">
-
-It performs search functionality as follows:
-
-<img width="1280" alt="Search Functionality" src="https://github.com/deveshcode/shopping-multimodal-rag/assets/37287532/ce713ad3-4df3-4067-8004-5019404546c2">
-
-### Virtual Try-On
-You can also virtually try it on by providing your image and product image:
-
-<img width="1280" alt="Virtual Try-On" src="https://github.com/deveshcode/shopping-multimodal-rag/assets/37287532/97c1d403-7dee-4bee-9f39-0ede08e56b55">
-
 ## Installation
 
 1. Git clone the repository:
