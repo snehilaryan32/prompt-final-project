@@ -11,7 +11,7 @@ Welcome to the Nike Product Search Bot! This application helps you search for Ni
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1rxwEOAuZc-nYXXGWnDTdTcSZ_Ha2OzUyzep-SCzlBuo#0)
 
 ### Architecture
-<img width="1276" alt="Product Search" src="[https://github.com/deveshcode/shopping-multimodal-rag/assets/37287532/6de1a49e-242e-4836-bcf8-dca0e9346eba](https://github.com/snehilaryan32/prompt-final-project/blob/main/image.png)">
+<img width="1276" alt="Product Search" src="https://github.com/snehilaryan32/prompt-final-project/blob/main/image.png">
 
 ## Features
 
